@@ -1,54 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="155de8fc-afe0-4427-9f21-e9134111d0d4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/ie8-gallery.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie8.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie9-gallery.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/ie9.css" afterPath="$PROJECT_DIR$/assets/css/ie9.css" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/arrow.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/close.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay3.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/overlay4.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/images/spinner.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main-gallery.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/assets/js/ie/PIE.htc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/ie/backgroundsize.min.htc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/ie/html5shiv.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/ie/respond.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main-gallery.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
-      <change beforePath="$PROJECT_DIR$/assets/js/util.js" afterPath="$PROJECT_DIR$/assets/js/util.js" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_panel.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_poptrox-popup.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie8-gallery.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie8.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie9-gallery.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/ie9.scss" afterPath="$PROJECT_DIR$/assets/sass/ie9.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterPath="$PROJECT_DIR$/assets/sass/layout/_main.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main-gallery.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/assets/sass/main.scss" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" afterPath="$PROJECT_DIR$/images/pic01.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" afterPath="$PROJECT_DIR$/images/pic02.jpg" />
-      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" afterPath="$PROJECT_DIR$/images/pic03.jpg" />
-      <change beforePath="$PROJECT_DIR$/vex.html" afterPath="" />
-    </list>
+    <list default="true" id="155de8fc-afe0-4427-9f21-e9134111d0d4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -75,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/board.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="412">
-              <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+              <caret line="66" column="9" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -187,7 +140,7 @@
       <workItem from="1515185660151" duration="8007000" />
       <workItem from="1515266925279" duration="87000" />
       <workItem from="1515416308708" duration="625000" />
-      <workItem from="1515434926917" duration="223000" />
+      <workItem from="1515434926917" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="adding">
       <created>1515168513281</created>
@@ -291,7 +244,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11021000" />
+    <option name="totallyTimeSpent" value="11396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -458,7 +411,7 @@
     <entry file="file://$PROJECT_DIR$/board.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
-          <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+          <caret line="66" column="9" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
           <folding />
         </state>
       </provider>
